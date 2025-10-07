@@ -6,6 +6,21 @@
   font-family: "Poppins", sans-serif;
 }
 body { background: #fffaf9; color: #222; }
+.landing-text h2 {
+  font-size: 1.5rem;
+  color: #14737dff;
+  margin-bottom: 15px;
+  font-weight: 700;
+  justify-align:center;
+}
+
+.landing-text p {
+  font-size: 2.2rem;
+  color: #ef0f0fff;
+  margin-bottom: 40px;
+  line-height: 1.5;
+}
+
 
 /* Landing Cards Section */
 .landing-cards { padding: 60px 10%; background: #fdf6f2; }
